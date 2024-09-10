@@ -46,7 +46,7 @@ Tools & Platforms: Git, Docker, AWS, Firebase
 <a href="https://www.leetcode.com/cozythecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cozythecoder" height="30" width="40" /></a>
 <a href="https://discord.gg/@cozyson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@cozyson" height="30" width="40" /></a>
 </p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cozythecoder&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Cozythecoder's GitHub Stats" />
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -116,9 +116,5 @@ Tools & Platforms: Git, Docker, AWS, Firebase
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cozythecoder&show_icons=true&locale=en" alt="cozythecoder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cozythecoder&" alt="cozythecoder" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cozythecoder&show_icons=true&locale=en&layout=compact" alt="cozythecoder" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=Cozythecoder&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Cozythecoder's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cozythecoder&theme=radical&hide_border=true" alt="Cozythecoder's GitHub Stats" />
