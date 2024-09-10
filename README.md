@@ -116,5 +116,7 @@ Tools & Platforms: Git, Docker, AWS, Firebase
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </a> 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Cozythecoder&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Cozythecoder's GitHub Stats" width="300" height="200" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cozythecoder&theme=radical&hide_border=true" alt="Cozythecoder's GitHub Streak" width="325" height="200" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cozythecoder&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Cozythecoder's GitHub Stats" width="400" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cozythecoder&theme=radical&hide_border=true" alt="Cozythecoder's GitHub Streak" width="425" height="200" />
+</p>
